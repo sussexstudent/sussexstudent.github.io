@@ -1,0 +1,10 @@
+title: Sussex Students' Union Blog
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+permalink: /:year/:month/:day/:title/

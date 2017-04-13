@@ -1,2 +1,2 @@
 # sussexstudent.github.io
-Organisation pages
+Dev blog

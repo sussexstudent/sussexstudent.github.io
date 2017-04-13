@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="Body">
+    <div class="Site">
+      {% include header.html %}
+
+      <main class="Site__content" aria-label="Content">
+        <div class="Container">
+          {{ content }}
+        </div>
+      </main>
+
+      {% include footer.html %}
+    </div>
+  </body>
+
+</html>
